@@ -66,7 +66,7 @@
 #
 #
 #
-|Logger 설정|<p>@Slf4j</p><p>로그계의 JPA</p>|
+|Logger 설정|<p>@Slf4j Simple Logging Facade for java</p><p>로그계의 JPA</p>|
 | :- | :- |
 |Create|<p>Validate 메서드로 검증하고</p><p>Save()로 엔티티를 저장</p><p>findByUserId로 엔티티를 검색해서 리턴</p>|
 |Retrieve|JpaRepository에서 국룰대로 만든 findByUserId() 메서드를 이용|
