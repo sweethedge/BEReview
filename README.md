@@ -62,7 +62,7 @@
 |@GeneratedValue|Id를 자동으로 생성하겠다는 뜻. 기본 Generator에 Incremental, Sequence, Identity 등이 있음|
 |@GenericGenerator|커스텀 Generator를 사용하고 싶을 때 이용|
 |JpaRepository<T, ID>|<p>T: 테이블에 매핑할 엔티티 클래스</p><p>ID: 그 엔티티의 기본 키 타입</p>|
-|@Query|<p>JpaRepository가 제공하는 기본 쿼리 외에 다른 쿼리를 쓸 때는 국룰대로 메서드를 써 주면 됨.</p><p>국룰 주소: <https://docs.spring.io/spring-data/jpa.docs/current/reference/html/#jpa.query-methods.query-creation></p><p></p><p>그것보다 더 복잡한 쿼리는 @Query를 이용</p>|
+|@Query|<p>JpaRepository가 제공하는 기본 쿼리 외에 다른 쿼리를 쓸 때는 국룰대로 메서드를 써 주면 됨.</p><p>국룰 주소: <https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.query-creation></p><p></p><p>그것보다 더 복잡한 쿼리는 @Query를 이용</p>|
 #
 #
 #
