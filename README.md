@@ -1,7 +1,5 @@
 김다정, React.js, 스프링 부트, AWS로 배우는 웹 개발 101
 
-https://app.sweethedge.com
-
 ![a](https://user-images.githubusercontent.com/113881813/230873284-2c046de9-5da7-4db0-a6fa-3fb126fd45e0.png)
 
 ![b](https://user-images.githubusercontent.com/113881813/230873296-2faf8edd-e7f3-4fb0-b677-fa2e9f62c93e.png)
